@@ -15,6 +15,7 @@ Open "NuGet Package Management Console" in Visual Studio and type
     Install-Package WcfExt
     
 Link to .NET 4.0 repo : https://github.com/khoanguyen/WcfEX_net40
+
 Link to .NET 4.5 repo : https://github.com/khoanguyen/WcfEX
 
 
